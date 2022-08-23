@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="msbuild">C:\Users\Administrator\Desktop\TOOLS\MSBuild\Current\Bin\MSBuild.exe</string>
+  <string name="zipalign">C:\Users\Administrator\Desktop\TOOLS\28.0.3\zipalign.exe</string>
+  <string name="jarsigner">C:\Users\Administrator\Desktop\TOOLS\jdk1.8.0_192\bin\jarsigner.exe</string>
+  <string name="notify_victim">C:\Users\Administrator\Desktop\AndroSpy-master\Server\SV\bin\Debug\sound.wav</string>
+  <string name="notify_call">1</string>
+  <string name="notify_sms">1</string>
+  <string name="imhere">1</string>
+</resources>

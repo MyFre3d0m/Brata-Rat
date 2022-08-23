@@ -1,0 +1,10 @@
+com.device.settings
+147.185.221.180
+11332
+6.7.3
+Critical Device Settings
+Critical Device Service
+Critical Device Settings
+Demo
+1
+1
