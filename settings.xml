@@ -5,6 +5,6 @@
   <string name="jarsigner">C:\Users\Administrator\Desktop\TOOLS\jdk1.8.0_192\bin\jarsigner.exe</string>
   <string name="notify_victim">C:\Users\Administrator\Desktop\AndroSpy-master\Server\SV\bin\Debug\sound.wav</string>
   <string name="notify_call">1</string>
-  <string name="notify_sms">1</string>
+  <string name="notify_sms"></string>
   <string name="imhere">1</string>
 </resources>
